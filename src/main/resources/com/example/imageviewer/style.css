@@ -1,0 +1,23 @@
+.root {
+    -fx-background-image: url("img.png");
+    -fx-background-size: 100% 100%;
+}
+
+#imagePane {
+    -fx-background-color: rgba(255, 255, 255, .5);
+}
+
+#transformPane {
+    -fx-background-color: rgba(255, 255, 255, .5);
+}
+
+#exitBtn {
+    -fx-background-color: rgba(225,0,0);
+}
+
+.text-bold-white {
+    -fx-font-family: "Arial";
+    -fx-font-size: 14;
+    -fx-font-weight: bold;
+    -fx-fill: white;
+}
